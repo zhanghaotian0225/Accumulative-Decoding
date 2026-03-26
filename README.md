@@ -1,9 +1,6 @@
 <div align="center">
 
-<h1>
-  <img src="https://raw.githubusercontent.com/your-username/accumulative-decoding/main/assets/logo.png" width="40" alt="logo"/>
-  Accumulative Decoding
-</h1>
+<h1>Accumulative Decoding</h1>
 
 <h3>Mitigating Hallucinations in Large Vision-Language Models via Accumulative Decoding</h3>
 
